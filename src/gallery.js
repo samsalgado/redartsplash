@@ -39,7 +39,6 @@ import NA7 from './Pictures/NA7.jpg'
 import NA10 from './Pictures/NA10.jpg'
 import NA11 from './Pictures/NA11.jpg'
 import NA12 from './Pictures/NA12.jpg'
-import NA13 from './Pictures/NA13.jpg'
 import NA14 from './Pictures/NA14.jpg'
 import NA15 from './Pictures/NA15.jpg'
 import NA16 from './Pictures/NA16.jpg'
@@ -52,241 +51,235 @@ const Gallery = () => {
         <Row>
             <Col>
                 <img className='pic1' src={Prayer} alt="" />
-                <h2>Lost in Meditation</h2>
-                <h3>$155</h3>
+                <h3>Lost in Meditation</h3>
+                <h3>SOLD</h3>
                 <Sizing />
             </Col>
             <Col>
                 <img className='pic1' src={Sylinda} alt="" />
-                <h2>Deep Thoughts</h2>
-                <h3>$130</h3>
+                <h3>Deep Thoughts</h3>
+                <h3>SOLD</h3>
                 <Sizing />
             </Col>
             <Col>
                 <img className='pic1' src={Laura} alt="" />
-                <h2>Laura</h2>
-                <h3>$50</h3>
+                <h3>Laura</h3>
+                <h3>SOLD</h3>
                 <Sizing />
             </Col>
             <Col>
               <img className='pic1' src={Ella} alt="" />
-              <h2>Ella</h2>
-              <h3>$200</h3>
+              <h3>Ella</h3>
+              <h3>SOLD</h3>
               <Sizing />
 
             </Col>
             <Col>
               <img className='pic1' src={cousins} alt="" />
-              <h2>Matching Cousins</h2>
-              <h3>$125</h3>
+              <h3>Matching Cousins</h3>
+              <h3>SOLD</h3>
               <Sizing />
 
             </Col>
             <Col>
               <img className='pic1' src={sttropez} alt='' />
-              <h2>Saint Tropez</h2>
-              <h3>$125</h3>
+              <h3>Saint Tropez</h3>
+              <h3>SOLD</h3>
               <Sizing />
-              <p className='shipping'>FREE Shipping</p>
 
             </Col>
             <Col>
               <img className='pic1' src={hershape} alt='' />
-              <h2>Her Shape</h2>
-              <h3>$125</h3>
+              <h3>Her Shape</h3>
+              <h3>SOLD</h3>
               <Sizing />
 
             </Col>
             <Col>
               <img className = 'pic1' src={spiritwalk} alt='' />
-              <h2>Spirit Walk Two</h2>
-              <h3>$50</h3>
+              <h3>Spirit Walk Two</h3>
+              <h3>SOLD</h3>
                 <Sizing />
             </Col>
             <Col>
               <img className = 'pic1' src={stage4breastcancer} alt='' />
-              <h2>Stage Four Breast Cancer Collection</h2>
-              <h3>$50</h3>
+              <h3>Stage Four Breast Cancer Collection</h3>
+              <h3>SOLD</h3>
               <Sizing />
             </Col>
             <Col>
               <img className = 'pic1' src={fineat60} alt='' />
-              <h2>Sculpted</h2>
+              <h3>Sculpted</h3>
+              <h3>SOLD</h3>
+
               <Sizing1 />
-              <h3>$100</h3>
 
             </Col>
             <Col>
               <img className = 'pic1' src={confidentwoman} alt='' />
-              <h2>The Confident Woman</h2>
+              <h3>The Confident Woman</h3>
               <h3>$400</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={waiting} alt='' />
-              <h2>The Waiting Room</h2>
-              <h3>$300</h3>
-              <Sizing2 />
-            </Col>
-            <Col>
-              <img className = 'pic1' src={joy} alt='' />
-              <h2>JOY EXPRESSED</h2>
+              <h3>The Waiting Room</h3>
               <h3>$350</h3>
               <Sizing2 />
             </Col>
             <Col>
-              <img className = 'pic1' src={see} alt='' />
-              <h2>Collectively We See</h2>
-              <h3>$200</h3>
+              <img className = 'pic1' src={joy} alt='' />
+              <h3>JOY EXPRESSED</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
+            
             <Col>
               <img className = 'pic1' src={helping} alt='' />
-              <h2>Overcome With Grief</h2>
+              <h3>Overcome With Grief</h3>
               <h3>$400</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={finish} alt='' />
-              <h2>Victory Lap</h2>
-              <h3>$200</h3>
+              <h3>Victory Lap</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={we} alt='' />
-              <h2>We The People</h2>
-              <h3>$250</h3>
+              <h3>We The People</h3>
+              <h3>SOLD</h3>
               <Sizing3 />
             </Col>
             <Col>
               <img className = 'pic1' src={deep} alt='' />
-              <h2>The Deep End</h2>
-              <h3>$450</h3>
+              <h3>The Deep End</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={woman} alt='' />
-              <h2>Every Woman</h2>
-              <h3>$450</h3>
+              <h3>Every Woman</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={entangled} alt='' />
-              <h2>Entangled</h2>
-              <h3>$350</h3>
+              <h3>Entangled</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className = 'pic1' src={promotion} alt='' />
-              <h2>Promotion</h2>
-              <h3>$400</h3>
+              <h3>Promotion</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               <p className='shipping'>FREE Shipping</p>
             </Col>
             <Col>
               <img className = 'pic1' src={rhythm} alt='' />
-              <h2>Rhythm On My Mind</h2>
-              <h3>$400</h3>
+              <h3>Rhythm On My Mind</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
-              <img className = 'pic1' src={attached} alt='' />
-              <h2>Attached</h2>
-              <h3>$350</h3>
+            <img className = 'pic1' src={see} alt='' />
+              <h3>Collectively We See</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
             <Col>
               <img className='pic1' src={NA1} alt="" />
-              <h2>The Pursuit Of Justice</h2>
-              <h3>$200</h3>
+              <h3>The Pursuit Of Justice</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               
             </Col>
             <Col>
               <img className='pic1' src={NA2} alt="" />
-              <h2>Ruby</h2>
+              <h3>Ruby</h3>
               <h3>$250</h3>
               <Sizing />
-              <p className='shipping'>FREE Shipping</p>
             </Col>
             <Col>
             <img className='pic1' src={NA3} alt="" />
-              <h2>On My Mind</h2>
-              <h3>$350</h3>
+              <h3>On My Mind</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
             </Col>
            <Col>
             <img className='pic1' src={NA5} alt="" />
-              <h2>On Stage</h2>
-              <h3>$100</h3>
+              <h3>On Stage</h3>
+              <h3>SOLD</h3>
               <Sizing />
               </Col>
               <Col>
               <img className='pic1' src={NA4} alt="" />
-              <h2>We March</h2>
-              <h3>$350</h3>
+              <h3>We March</h3>
+              <h3>SOLD</h3>
               <Sizing3 />
 
               </Col>
               <Col>
               <img className='pic1' src={NA6} alt="" />
-              <h2>The Family United</h2>
-              <h3>$50</h3>
+              <h3>The Family United</h3>
+              <h3>SOLD</h3>
               <Sizing3 />
               </Col>
               <Col>
               <img className='pic1' src={NA7} alt="" />
-              <h2>My Pain In The Rain</h2>
-              <h3>$300</h3>
+              <h3>My Pain In The Rain</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               </Col>
               <Col>
-              <img className='pic1' src={NA8} alt="" />
-              <h2> Death By A Thousand Cuts</h2>
-              <h3>$300</h3>
+              <img className='pic2' src={NA8} alt="" />
+              <h3 className='death'> Death By A Thousand Cuts</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA9} alt="" />
-              <h2>Advice To My Daughter</h2>
-              <h3>$200</h3>
+              <h3>Advice To My Daughter</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA10} alt="" />
-              <h2>The Hope Of A Generation</h2>
-              <h3>$150</h3>
+              <h3>The Hope Of A Generation</h3>
+              <h3>$350</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA11} alt="" />
-              <h2>Street Life</h2>
-              <h3>$150</h3>
+              <h3>Street Life</h3>
+              <h3>$400</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA12} alt="" />
-              <h2>We The People Version Two</h2>
-              <h3>$150</h3>
+              <h3>We The People Version Two</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               </Col>
               
               <Col>
               <img className='pic1' src={NA14} alt="" />
-              <h2>Hiding</h2>
-              <h3>$150</h3>
+              <h3>Hiding</h3>
+              <h3>SOLD</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA16} alt="" />
-              <h2>Spirit Man</h2>
-              <h3>$300</h3>
+              <h3>Spirit Man</h3>
+              <h3>$400</h3>
               <Sizing2 />
               </Col>
               <Col>
               <img className='pic1' src={NA15} alt="" />
-              <h2>The Wahoo Catch</h2>
-              <h3>$300</h3>
+              <h3>The Wahoo Catch</h3>
+              <h3>SOLD</h3>
               <Sizing3 />
               </Col>
 
