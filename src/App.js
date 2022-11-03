@@ -1,6 +1,5 @@
 import './App.css';
 import Gallery from './gallery';
-import Header from './Header';
 import Topbar from './topbar';
 
 function App() {
