@@ -3,7 +3,6 @@ import Images from './Images'
 import "./Images"
 import Sizing3 from './contact/xlarge.js'
 import {Grid, Row} from 'react-flexbox-grid'
-import Sizing from './contact/small'
 const Gallery3 = () => {
     const art3 = useMemo(() =>
 [
@@ -46,10 +45,6 @@ return (
                     <h3>{val.name}</h3>
                     <h3>{val.price}</h3>
                     <Sizing3 />
-                    <img className='pic1' src={Images.sculpted} alt="" />
-                  <h3>Sculpted</h3>
-                  <h3>SOLD</h3>
-                  <Sizing />
 
                     </div>
                   )
