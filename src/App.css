@@ -39,7 +39,7 @@
 .me {
   height:10vmin;
   width:auto;
-  left:1645px;
+  left:1380px;
   position: absolute;
   align-items: center;
 }
@@ -50,7 +50,7 @@
   width:auto;
   height:10vmin;
   width:fit-content;
-  left:1645px;
+  left:1320px;
   position: absolute;
 }
 .hed {
@@ -61,7 +61,6 @@
   font-size: xx-large;
   size:portrait;
   text-indent: 620px;
-
 }
 p {
   font-size: 26px;
