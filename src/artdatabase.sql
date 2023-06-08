@@ -211,3 +211,5 @@ VALUES (
         'SOLD'
     );
     SELECT * FROM artpieces WHERE in_stock > 'YES';
+    SELECT * FROM `artpieces` ORDER BY in_stock;
+    
