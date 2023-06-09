@@ -212,4 +212,4 @@ VALUES (
     );
     SELECT * FROM artpieces WHERE in_stock > 'YES';
     SELECT * FROM `artpieces` ORDER BY in_stock;
-    
+    SELECT art_id FROM artpieces WHERE name = 'Joy Expressed';
